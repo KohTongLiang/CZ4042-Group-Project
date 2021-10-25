@@ -2,8 +2,11 @@
 Group Project for CZ4042 Neural Network and Deep Learning. Gender and age identification on mobile devices.
 
 Extra:
+- Age Classification
 - Cross-dresser identification
+- Mobile deployment via Tensorflow lite
 
 ## Dataset
 
-https://talhassner.github.io/home/projects/Adience/Adience-data.html#agegender
+UTK: https://susanqq.github.io/UTKFace/
+

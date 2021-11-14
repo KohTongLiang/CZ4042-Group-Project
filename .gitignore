@@ -1,5 +1,6 @@
 /adiencedataset
 UTKDataset/*
+deep-cnn/*
 logs/*
 tb_logs/*
 architecture.png
